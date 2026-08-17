@@ -1,4 +1,4 @@
-![Capa do perfil](./unnamed.png)
+<img src="./unnamed.jpg" alt="Capa do perfil" width="100%">
 
 # Olá! Eu sou a Carinne 👋
 
