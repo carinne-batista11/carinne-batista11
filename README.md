@@ -1,3 +1,5 @@
+![Capa do perfil](./unnamed.png)
+
 # Olá! Eu sou a Carinne 👋
 
 🎓 **Estudante de Ciência da Computação**
